@@ -1,0 +1,14 @@
+C:\Users\ONLINE\Desktop\project\console\console\bin\Debug\netcoreapp3.1\console.exe
+C:\Users\ONLINE\Desktop\project\console\console\bin\Debug\netcoreapp3.1\console.deps.json
+C:\Users\ONLINE\Desktop\project\console\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.json
+C:\Users\ONLINE\Desktop\project\console\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.dev.json
+C:\Users\ONLINE\Desktop\project\console\console\bin\Debug\netcoreapp3.1\console.dll
+C:\Users\ONLINE\Desktop\project\console\console\bin\Debug\netcoreapp3.1\console.pdb
+C:\Users\ONLINE\Desktop\project\console\console\obj\Debug\netcoreapp3.1\console.csproj.AssemblyReference.cache
+C:\Users\ONLINE\Desktop\project\console\console\obj\Debug\netcoreapp3.1\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONLINE\Desktop\project\console\console\obj\Debug\netcoreapp3.1\console.AssemblyInfoInputs.cache
+C:\Users\ONLINE\Desktop\project\console\console\obj\Debug\netcoreapp3.1\console.AssemblyInfo.cs
+C:\Users\ONLINE\Desktop\project\console\console\obj\Debug\netcoreapp3.1\console.csproj.CoreCompileInputs.cache
+C:\Users\ONLINE\Desktop\project\console\console\obj\Debug\netcoreapp3.1\console.dll
+C:\Users\ONLINE\Desktop\project\console\console\obj\Debug\netcoreapp3.1\console.pdb
+C:\Users\ONLINE\Desktop\project\console\console\obj\Debug\netcoreapp3.1\console.genruntimeconfig.cache
